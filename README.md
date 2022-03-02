@@ -9,7 +9,7 @@
 <br>
 
 <h2 align="center">Languages and Tools:</h3>
-<p align="center" style="background: #fff; padding: 1rem;">
+<div align="center" style="background: #fff; padding: 1rem;">
     <a href="https://www.w3.org/html/" target="_blank" title="HTML5" style="padding: 2rem; display: inline-block">
         <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
     </a>
@@ -91,7 +91,7 @@
     <a href="" title="WordPress" style="padding: 2rem; display: inline-block">
         <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" />
     </a>
-</p>
+</div>
 <br>
 <br>
 

@@ -11,7 +11,7 @@
 <h2 align="center">Languages and Tools:</h3>
 <div align="center">
     <a href="#">
-        <img src="./images/languages_github.png" />
+        <img src="./images/languages_github2.png" />
     </a>
 </div>
 <br>
